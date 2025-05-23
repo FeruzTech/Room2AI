@@ -1,0 +1,8 @@
+# Backend dependencies
+fastapi
+uvicorn
+langchain
+openai
+pydantic
+python-dotenv
+# Add your vector DB client, e.g., chromadb or pinecone-client

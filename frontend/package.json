@@ -1,0 +1,17 @@
+# Frontend dependencies and scripts
+{
+  "name": "chatbot-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^3.0.0",
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.0"
+  }
+}
